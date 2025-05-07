@@ -1,4 +1,4 @@
-Scraping a LinkeIn account using Selenium and saves the Python jobs titles and links to a excel file using Pandas
+Scraping a LinkedIn account using Selenium and saves the Python jobs titles and links to a excel file using Pandas
 
 ![lined_jobs](https://github.com/user-attachments/assets/62a5c682-9144-4bf7-896b-0b8236638f41)
 
